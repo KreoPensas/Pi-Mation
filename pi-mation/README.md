@@ -54,10 +54,7 @@ Alternatively you could run pi-mation.py from IDLE or a text editor / IDE like G
 
 Usage
 =====
-Could you be the next [Nick Park](http://en.wikipedia.org/wiki/Nick_Park)? 
-Try your hand at stop motion animation with this simple, but effective RasPi application.
 
-![Test](pi-mation/data/start_screen.jpg)
 
 The application shows a fullscreen live preview from your Raspberry Pi camera module. Pressing the spacebar takes a shot at that moment.
 
