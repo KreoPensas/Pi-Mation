@@ -43,7 +43,7 @@ If you don't have git installed on your Pi yet, from the terminal type:
 Once installed you can clone the Pi-Mation repository with the git clone command:
 
     cd ~
-    git clone https://github.com/russb78/pi-mation.git
+    git clone https://github.com/KreoPensas/Pi-Mation.git
 
 Now you can enter the pi-mation sub-directory and run pi-mation.py with the following commands:
 
